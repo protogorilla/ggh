@@ -1,0 +1,66 @@
+{
+  "fruits": [
+    {
+      "name": "apple",
+      "genus": "malus",
+      "growingseason": [
+        "summer",
+        "fall"
+      ]
+    },
+    {
+      "name": "apricot",
+      "genus": "prunus",
+      "growingseason": [
+        "spring",
+        "summer"
+      ]
+    },
+    {
+      "name": "banana",
+      "genus": "musa",
+      "growingseason": [
+        "year-round"
+      ]
+    },
+    {
+      "name": "blackberry",
+      "genus": "rubus",
+      "growingseason": [
+        "summer",
+        "fall"
+      ]
+    },
+    {
+      "name": "blueberry",
+      "genus": "vaccinium",
+      "growingseason": [
+        "spring",
+        "summer"
+      ]
+    },
+    {
+      "name": "boysenberry",
+      "genus": "rubus",
+      "growingseason": [
+        "summer"
+      ]
+    },
+    {
+      "name": "cantaloupe",
+      "genus": "cucumis",
+      "growingseason": [
+        "summer",
+        "fall"
+      ]
+    },
+    {
+      "name": "cherry",
+      "genus": "prunus",
+      "growingseason": [
+        "spring",
+        "summer"
+      ]
+    }
+  ]
+}
